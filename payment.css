@@ -1,0 +1,24 @@
+body { margin-top:200px; }
+.panel-title {display: inline;font-weight: bold;}
+.checkbox.pull-right { margin: 0; }
+.pl-ziro { padding-left: 200px; }
+
+.navbar {
+    justify-content: space-between;
+}
+
+body {
+   margin-right: 100px;
+   padding: 200px 200px;
+}
+
+/* .container-fluid {
+    padding: 200px;
+    margin-right: 5em;
+} */
+
+/* .items {
+    margin-right: 200px;
+    padding-right: 200px;
+    text-align: center;
+} */
